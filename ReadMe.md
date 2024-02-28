@@ -11,3 +11,5 @@ Bilder einfügen
 |SpalteA|SpalteB|SpalteC|
 |---|---|---|
 |1|1,5|2|
+
+5% 4$ @ € \mathbb{R}$
